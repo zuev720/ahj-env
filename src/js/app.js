@@ -1,5 +1,3 @@
-export default function demo(value) {
-  return value;
+export default function demo() {
+  console.log('app.js included');
 }
-
-console.log('app.js included');
